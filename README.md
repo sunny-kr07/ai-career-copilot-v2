@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="web/public/logo-96.png" alt="AI Career Copilot logo" width="96" />
-</div>
 
 # AI Career Copilot
 
@@ -22,6 +21,7 @@ Bug](../../issues) · [Request a Feature](../../issues)**
 ![License](https://img.shields.io/badge/License-MIT-green)
 :::
 
+</div>
 ------------------------------------------------------------------------
 
 ## Overview
