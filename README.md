@@ -178,8 +178,8 @@ Install the following before running locally:
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/sunny-kr07/ai-career-copilot.git
-cd ai-career-copilot
+git clone https://github.com/sunny-kr07/ai-career-copilot-v2.git
+cd ai-career-copilot-v2
 ```
 
 ### 2. Create a Python environment
@@ -429,5 +429,5 @@ apply to your copy of the project.
 ------------------------------------------------------------------------
 
 <div align="center">
-**Built to help job seekers prepare with more clarity and confidence.**
+Built to help job seekers prepare with more clarity and confidence.
 </div>
