@@ -22,7 +22,7 @@ Bug](../../issues) · [Request a Feature](../../issues)**
 :::
 
 </div>
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Overview
 
@@ -94,9 +94,6 @@ Replace the example domains above with your deployed Vercel and Render
 URLs.
 
 ### Screenshots
-
-Add screenshots of the live application to a `docs/screenshots/`
-directory, then update the image paths below.
 
   -----------------------------------------------------------------
   Resume analysis                                                   
