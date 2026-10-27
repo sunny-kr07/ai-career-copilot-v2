@@ -90,8 +90,6 @@ separately.
 **API documentation:**
 `https://ai-career-copilot-v2-nt1s.onrender.com/api/docs`
 
-Replace the example domains above with your deployed Vercel and Render
-URLs.
 
 ### Screenshots
 
@@ -183,8 +181,6 @@ Install the following before running locally:
 git clone https://github.com/sunny-kr07/ai-career-copilot.git
 cd ai-career-copilot
 ```
-
-Replace the repository URL with your actual GitHub repository URL.
 
 ### 2. Create a Python environment
 
@@ -432,6 +428,6 @@ apply to your copy of the project.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+<div align="center">
 **Built to help job seekers prepare with more clarity and confidence.**
-:::
+</div>
