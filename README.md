@@ -99,8 +99,7 @@ directory, then update the image paths below.
   ---------------------------------------------------------------------------------------------------------------------------------
   Resume analysis                                                   Job discovery
   ----------------------------------------------------------------- ---------------------------------------------------------------
-  `<!-- Add screenshot: docs/screenshots/resume-analysis.png -->`   `<!-- Add screenshot: docs/screenshots/job-discovery.png -->`
-
+  ![Resume Analysis Dashboard](docs/screenshots/resume-analysis.png)  ![Job Discovery Dashboard](docs/screenshots/job-discovery.png)
   ---------------------------------------------------------------------------------------------------------------------------------
 
 For example, after adding a screenshot, use:
