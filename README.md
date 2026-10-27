@@ -1,5 +1,6 @@
-::: {align="center"}
-`<img src="web/public/logo-96.png" alt="AI Career Copilot logo" width="80" />`{=html}
+<div align="center">
+
+<img src="web/public/logo-96.png" alt="AI Career Copilot logo" width="96" />
 
 # AI Career Copilot
 
@@ -96,17 +97,17 @@ URLs.
 Add screenshots of the live application to a `docs/screenshots/`
 directory, then update the image paths below.
 
-  ---------------------------------------------------------------------------------------------------------------------------------
-  Resume analysis                                                   Job discovery
-  ----------------------------------------------------------------- ---------------------------------------------------------------
-  ![Resume Analysis Dashboard](docs/screenshots/resume-analysis.png)  ![Job Discovery Dashboard](docs/screenshots/job-discovery.png)
-  ---------------------------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------
+  Resume analysis                                                   
+  -----------------------------------------------------------------
+  ![Resume Analysis Dashboard](docs/screenshots/resume-analysis.png)  
 
-For example, after adding a screenshot, use:
-
-``` md
-![Resume analysis dashboard](docs/screenshots/resume-analysis.png)
-```
+  ---------------------------------------------------------------
+  Job discovery
+  ---------------------------------------------------------------
+  
+  ![Job Discovery Dashboard](docs/screenshots/job-discovery.png)
+  ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Architecture
 
