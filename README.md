@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="web/public/logo-96.png" alt="AI Career Copilot logo" width="96" />
+</div>
 
 # AI Career Copilot
 
